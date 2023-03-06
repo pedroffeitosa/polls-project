@@ -1,1 +1,1 @@
-# polls-project
+# Polls Project
